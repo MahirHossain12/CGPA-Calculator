@@ -1,7 +1,3 @@
-Here’s a full project description you can use for your GitHub repository:
-
----
-
 # 🎓 CGPA Calculator for University Students (4.0 Scale)
 
 This is a simple **terminal-based CGPA calculator** built in Python. It helps students calculate their overall CGPA and last 2 years' CGPA (typically semesters 5–8) based on the grades and credit hours of individual courses. This tool is particularly useful for **University of Dhaka CSE students**, but it can be adapted to any university that uses a **4.00 GPA scale**.
@@ -67,14 +63,14 @@ This is a simple **terminal-based CGPA calculator** built in Python. It helps st
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/cgpa-calculator.git
+git clone https://github.com/MahirHossain12/CGPA-Calculator.git
 cd cgpa-calculator
 ```
 
 2. Run the script:
 
 ```bash
-python cgpa_calculator.py
+python CGPA.py
 ```
 
 3. Follow the on-screen instructions.
@@ -111,7 +107,3 @@ Saved to cgpa_results.txt
 ## 📄 License
 
 This project is open-source and free to use under the MIT License.
-
----
-
-Let me know if you want this description converted into a `README.md` file with Markdown formatting.
